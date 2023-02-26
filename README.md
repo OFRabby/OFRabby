@@ -1,12 +1,14 @@
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-<h1 align="center">Hi 💚, I'm MD.Omar Faruk Rabby</h1>
 
+<h1 align="center">Hi,I'm MD.Omar Faruk Rabby!</h1>
+<h3 align="center">From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofrabby&label=Profile%20views&color=0e75b6&style=flat" alt="ofrabby" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ofrabby" alt="ofrabby" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
